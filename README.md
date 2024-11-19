@@ -1,3 +1,24 @@
+# Client Setup
+
+    - Add .env file and add a variable VITE_API_BASE_URL
+    e.g 'http://localhost:4000/api'
+
+# Run dev server
+
+run npm run dev in terminal.
+
+# Client app pages
+
+    - Register
+    /auth/register
+    - Login
+    /auth/login
+    - Tasks list
+    /tasks
+    - Create Task
+    tasks/create
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
